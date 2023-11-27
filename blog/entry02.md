@@ -1,8 +1,10 @@
-# Entry 2
-##### X/X/XX
+# Entry 2 Software and Hardware
+##### 11/27/2023
 
-Text
+## Software:
 
-[Previous](entry01.md) | [Next](entry03.md)
+## Hardware:
 
-[Home](../README.md)
+## Engineering Design Process
+
+## Skills:
