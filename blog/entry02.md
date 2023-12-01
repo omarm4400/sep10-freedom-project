@@ -8,7 +8,14 @@ Software and sports have a great relationship together, because not only athlets
 Just like software, hardware also have a great relationship with sports. Because how else would the spoftware not work with out a hardware. And during my search I found more results for hard where than software because almost every athlet uses Hardware like divices that helps them in their traning or other things. For example ["This website"](https://www.cogniteq.com/blog/how-wearable-technology-changing-sports-industry#:~:text=Examples%20of%20wearable%20technology%20in%20sports,-Arguably%2C%20no%20other&text=Heart%20rate%20monitors%20track%20breathing,%2C%20quarterbacks%2C%20and%20other%20positions)tells you the benifit of the waerable divices that athlet use and, ["This website"](https://apacbusinessheadlines.com/10-Most-Innovative-Wearables-for-Fitness-and-Sport/) tells you a lot of divices waerable divices that athlet use that have a lot of benifits. This shows you how there is a great benifit between software,hardware and sports.   
 
 ## Engineering Design Process:
+I am now in the second step of EDP (Engineering Design Process), which is to research the problem. And acording to my research on software and hardware I see that there is a lot of improvment in technology on sports because a lot of different companies are seeing that a lot of people watch sports so for that they should invest more in sports so they can get more money at the end. So they make new machines using new technology as you can see in the software and hardware divices and apps. 
 
 ## Skills:
+
+### How to google:
+
+### How to read:
+
+### How to take nots:
 
 ## Summery:
