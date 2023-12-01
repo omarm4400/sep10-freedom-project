@@ -13,9 +13,13 @@ I am now in the second step of EDP (Engineering Design Process), which is to res
 ## Skills:
 
 ### How to google:
+During my blog entry I learned a lot of skills and for me the most important one is learning how to search because that is what the main project is about, so learning how to google is grat thing because you need to master how to find what your looking for so you can get the work done quickly and accurly.
 
 ### How to read:
+Googlying without knowing how to read and analys what you are reading is nothing. It is because while googling you will find a lot of results and you should read carfully each result so you can get the answer you were looking for. So that is why you should read carfuly and analyize what you're reading because this skill that I learned during this blog helped me too much getting work done faster.
 
-### How to take nots:
+
+### How to take nots: After you google, read and analyze what you red you should learn how to take notes because while googling you will see a lot of importsnt results but of course you will not be able to memorize all of them so for that you should take nots on all the important information that you see while googling because it helped me so much when pulling out the important information that I need.
 
 ## Summery:
+Lastly this was one of the best tybe of searches I did so far because I love sports so much and I want to learn more about it. 
