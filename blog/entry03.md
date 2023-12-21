@@ -5,6 +5,7 @@
 Even though some people might think that sport is compleat, some people might think that it is not and i am one of them and i think that new invatation can make sport even more compleat without any mistackes, and that was what part B in my Freedom project is about new invatation that could help sport and the athleats that are playing it, because even though we are in 2023 there are a lot of new invatations every day so sport also should have some new invataion that effect it and the players to make the game more fun for fans to watch.  
 
 ## Sources:
+Thinking of new invatation is a very hard thing to do,so i needed some inspiration from people who were already done with their freedom project.So i used {"This example"}(https://alanl0566.github.io/sep10-freedom-project/) 
 ## EDP:
 ## Skills:
 
