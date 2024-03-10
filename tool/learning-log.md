@@ -18,7 +18,8 @@ Every shape has radius , height and width .
 3/10/24:
 # weak 2
 
-
+  In this weak I started to tinker with my tool(inside index.html) so I can use it more and fix the mistakes I did, when I tinkered before .
+  and I also watched {this video}(https://youtu.be/apEN5izR87I?si=Lgcr4ep1sPR0SLMU) which tought me how to build complex models.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
