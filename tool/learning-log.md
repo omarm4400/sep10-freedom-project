@@ -20,6 +20,19 @@ Every shape has radius , height and width .
 
   In this weak I started to tinker with my tool(inside index.html) so I can use it more and fix the mistakes I did, when I tinkered before .
   and I also watched {this video}(https://youtu.be/apEN5izR87I?si=Lgcr4ep1sPR0SLMU) which tought me how to build complex models.
+
+  # waek 3
+  in this weak I continued  tinkiring with my tool and I watched {this video}(https://youtu.be/bzH8SB5VIwk?si=Q1wJzHeR1VG28s0F) which tought me a litle bit on assest manger which helps imptove the world you are making more in term of smoothness.
+  the code used to apply the assest manger:
+  <a-scene>
+  <a-assest>
+  </a-assest>
+
+
+  # weak4
+  In this weak I learned how to Manipulating components, which was using components to creat new components by changing the scale of the components and by trying different components you get different shapes.And i watched {this video}(https://youtu.be/mIPmg4xwF1Q?si=dQdnLzCYw3Lvq8B0) to help me learn about Manipulating components.
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
