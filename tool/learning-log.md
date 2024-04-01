@@ -32,7 +32,9 @@ Every shape has radius , height and width .
   # weak4
   In this weak I learned how to Manipulating components, which was using components to creat new components by changing the scale of the components and by trying different components you get different shapes.And i watched {this video}(https://youtu.be/mIPmg4xwF1Q?si=dQdnLzCYw3Lvq8B0) to help me learn about Manipulating components.
 
-
+# weak 5
+In this weak I used last weak's lesson which was Manipulating components to tinker with my tool and make a shape, as it's shown in the screen shot.
+![alt text](<Screenshot 2024-04-01 6.39.54 PM.png>)
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
