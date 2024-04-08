@@ -35,6 +35,14 @@ Every shape has radius , height and width .
 # weak 5
 In this weak I used last weak's lesson which was Manipulating components to tinker with my tool and make a shape, as it's shown in the screen shot.
 ![alt text](<Screenshot 2024-04-01 6.39.54 PM.png>)
+
+
+# day 1
+In day one I was tried useing the chanel that I always use to learn my tool, but then it start teching me JS so I had to go to the Afram website and learn from there.
+I learned on the first day some of the PRIMITIVES. Which was basicly teaching me about the Attributes of each shape in afram like height and weidth of the shapes.
+
+# day 2&3
+In day 2 and 3 I continued on looking at the Afram website and used what I learned in day one, then I tryied tinkring with my tool and build some shapes because I learned in day 1 about the shapes Attributes so I used that to tinker with shapes.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
