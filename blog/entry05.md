@@ -4,3 +4,5 @@
 ## What I learned about my tool.
 
 ## How I learned my tool.
+
+## Skills.
