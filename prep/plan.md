@@ -5,11 +5,12 @@
 * [Desktop](https://wireframe.cc/iBBWe6)
 
 ## Colors
-* `#ABC123`
+00FFB9
+2A98C4
+0800FF
 
 ## Fonts
-* [Text](URL)
-
+[Roboto Slab](https://fonts.google.com/selection/embed)
 ## Timeline
 
 #### MVP
