@@ -16,4 +16,10 @@ I used a lot of stratigies and resurces to learn my tool, and they were all help
 
 ## Skills:
 
+### How to tinker :
+As I said before a good way to learn something is by tinkering with it so of cousre learning how to tinker is a very helpful skill to learn. Tinkring is all about trying new things and that it what I did. I use to change in the Afram arritbues to see the out come of it, and that is a very effective way because it helps you finding out new things by your self.
+
+### How to choose helpful resurces: 
+I wouldn't be able to learn Afram without the resurces that I got, because all of them are very helpful. And that is why choosing you need to use the right strategy that would help you choose the right resource for you. I did that by searching for the right thing because if you don't you will find different results than the one you're looking for. 
+
 
