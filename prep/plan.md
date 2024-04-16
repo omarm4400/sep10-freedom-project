@@ -15,10 +15,16 @@
 
 #### MVP
 
-* Task/Timeline
-
+### Weak 1:
+* Finsh navbar
+* Finsh css
+### Weak 2:
+* Add the contex
+* Finish up any bootstrap layout
+* add the afram preview
 ---
 
 #### Beyond MVP
 
-* Task
+* Change the colors if they don't match
+* add some extra boostrab Components.
