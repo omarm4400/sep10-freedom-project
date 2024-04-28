@@ -1,23 +1,30 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/CsWpUN)
+* [Desktop](https://wireframe.cc/iBBWe6)
 
 ## Colors
-* `#ABC123`
+00FFB9
+2A98C4
+0800FF
 
 ## Fonts
-* [Text](URL)
-
+[Roboto Slab](https://fonts.google.com/selection/embed)
 ## Timeline
 
 #### MVP
 
-* Task/Timeline
-
+### Weak 1:
+* Finsh navbar
+* Finsh css
+### Weak 2:
+* Add the contex
+* Finish up any bootstrap layout
+* add the afram preview
 ---
 
 #### Beyond MVP
 
-* Task
+* Change the colors if they don't match
+* add some extra boostrab Components.
