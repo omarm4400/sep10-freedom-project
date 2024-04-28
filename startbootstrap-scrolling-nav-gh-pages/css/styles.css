@@ -407,7 +407,17 @@ fieldset {
   margin: 0;
   border: 0;
 }
+#h1{
+  text-align:center;
 
+}
+#img{
+  height:360px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 legend {
   float: left;
   width: 100%;
@@ -8126,7 +8136,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #00FFB9;
 }
 
 .bg-secondary {
@@ -8156,7 +8166,7 @@ textarea.form-control-lg {
 
 .bg-light {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #00FFB9;
 }
 
 .bg-dark {
@@ -10834,6 +10844,13 @@ header {
 }
 
 section {
+  background-color:#418cce;
   padding-top: 9rem;
   padding-bottom: 9rem;
+}
+#section{
+  background-color:#418cce;
+}
+.hii{
+  background-color:#00FFB9;
 }
