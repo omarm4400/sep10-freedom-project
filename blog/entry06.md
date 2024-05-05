@@ -3,6 +3,8 @@
 
 # How I made my MVP ?
 Creating my MVP was one of the most exiting task I've ever did in my sep class because you get to express all of the skills you learned the whole year, like the tool I had to learn and all other types of codes. But it wasn't so easy for me, because it had a lot of challenges but after I went through these challenges I've benefited from them because of all the takeawys that I got.
+![Screenshot 2024-05-04 8 46 39 PM](https://github.com/omarm4400/sep10-freedom-project/assets/146861785/022ca84c-0f5b-47a4-8efc-45bf0f01a282)
+
 ## Challenges :
 The challenges I faced during the process of ceating my MVP weren't that much, because they were thing I already went over this year. 
 My first challenge was actuely remmempering all the things I learned in the begging of the year, so I had to use my notes for that so I can remmember all the old cods.
@@ -13,6 +15,8 @@ The takeaways that I got from the challenges I faced were very helpful because I
 
 
 # Sources:
+During my MVP I've used a lot of different sources, for example I've used [this website ](https://startbootstrap.com/themes) to download the bootstrap templeats and use it as a theme to creat my MVP. I also used [this webdite](https://replit.com/~) to try my tool and use it in my MVP. And lastly I oc curse used [this webiste](https://github.com/) to creat my MVP on it.
+
 
 # EDP:
 ![Screenshot 2024-05-04 7 59 00 PM](https://github.com/omarm4400/sep10-freedom-project/assets/146861785/0fe0bd98-1f47-4807-9d3f-f602b99fc811)
