@@ -19,5 +19,9 @@ During my MVP I've used a lot of different sources, for example I've used [this 
 
 
 # EDP:
+I am curintly in the 4th step of the EDP (Engineering Design Process), which is Create a prototype. As you can see below this is what I created using Afram which is a prototype of the divice that I want to be invented in the future. And it's bascily a tecnholgical divice that helps the refrees in soccer or any other sport to spot a foul in the gane that the refree might not see. This divice already excist in soccer but it makes a lot of mistakes so that is why they need a newer virstion whith less mistakes.
 ![Screenshot 2024-05-04 7 59 00 PM](https://github.com/omarm4400/sep10-freedom-project/assets/146861785/0fe0bd98-1f47-4807-9d3f-f602b99fc811)
 # Skills:
+During the process of creating my MVP I didn't learn that many skills because it didn't take that long, but I improved on some of the old ones.
+* The first one that I improved on was how to take good notes, as I said before my notes helped me a lot when I was creating my MVP so this tells me that in the future I should take more notes and more helpful ones.
+* My second Skill that I improved on was listening properly. My second take away was a trick that my teacher taught me which was to use control f to find the piece of code that I am looking for. So in the future if I were to listen properly to my teacher I would've learned more tricks.
