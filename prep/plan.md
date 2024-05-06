@@ -28,3 +28,6 @@
 
 * Change the colors if they don't match
 * add some extra boostrab Components.
+* fix the images.
+* fix grmmer errors.
+  
