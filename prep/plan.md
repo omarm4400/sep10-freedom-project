@@ -21,7 +21,7 @@
 ### Week 2:
 * Add the contex
 * Finish up any bootstrap layout
-* add the afram preview
+* add the afram url
 ---
 
 #### Beyond MVP
@@ -29,6 +29,7 @@
 * * fix grmmer errors.
 * Change the colors if they don't match
 * add some extra boostrab Components.
+* * add the afram preview.
 
 
   
