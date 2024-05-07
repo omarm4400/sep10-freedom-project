@@ -15,19 +15,20 @@
 
 #### MVP
 
-### Weak 1:
+### Week 1:
 * Finsh navbar
 * Finsh css
-### Weak 2:
+### Week 2:
 * Add the contex
 * Finish up any bootstrap layout
 * add the afram preview
 ---
 
 #### Beyond MVP
-
+* fix the images.
+* * fix grmmer errors.
 * Change the colors if they don't match
 * add some extra boostrab Components.
-* fix the images.
-* fix grmmer errors.
+
+
   
