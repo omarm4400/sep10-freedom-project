@@ -8136,7 +8136,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: cornflowerblue;
+  background-color: #dee2e6;
 }
 
 .bg-secondary {
@@ -8166,7 +8166,7 @@ textarea.form-control-lg {
 
 .bg-light {
   --bs-bg-opacity: 1;
-  background-color: cornflowerblue;
+  background-color: #dee2e6;
 }
 
 .bg-dark {
@@ -10852,7 +10852,7 @@ section {
   background-color:#418cce;
 }
 .hii{
-  background-color:cornflowerblue;
+  background-color:#dee2e6;
 }
 
 
