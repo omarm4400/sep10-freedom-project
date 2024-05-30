@@ -1,8 +1,3 @@
 # Entry 7
-##### X/X/XX
+##### 5/30/2024
 
-Text
-
-[Previous](entry06.md) | [Next](entry08.md)
-
-[Home](../README.md)
