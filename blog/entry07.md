@@ -10,6 +10,7 @@ During my elevator pitch I have faced a lot of challenges and these challenges p
 During my Class presentation I also had a lot of similar challenges and takeawyas to the elevator pitch. One takeaway was also practicing the slides of the presintation but I had to practice it way more because it was a lot longer than the levator pitch and I had to share front of the whole class so it was so difficalt. Another takeaway was the prepration for the slide show. I used my notes to prepair for the slides and write down the things I am going to say and that helped me a lot because it helped me write down my thughts so I can do the slides faster. 
 
 # Sources:
+[My notes ](https://docs.google.com/document/d/1LMmkylA_xuVpdzjHb0oRsbM4Yx3c70EypvJGkC6xv3g/edit#heading=h.6o1f62qg6jz9)
 
 # EDP:
 
