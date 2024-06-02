@@ -13,7 +13,8 @@ During my class presentation, I also had a lot of similar challenges and takeawa
 During my presentation, I've used [My notes ](https://docs.google.com/document/d/1LMmkylA_xuVpdzjHb0oRsbM4Yx3c70EypvJGkC6xv3g/edit#heading=h.6o1f62qg6jz9) so I can write down the preparation for my presentation. And here is [my slide show](https://docs.google.com/presentation/d/1NfoDNkZOYw1XRO39RQjFp-yyW1_oc1qRyuYNA7rK4Fs/edit#slide=id.p) that I presented in front of the class.
 
 # EDP:
-I am currently in the 5th step of the EDP (Engineering Design Process), which is creating a prototype. Down here is a screenshot of my Afram, which is a prototype of the device that I want to see in the future. This divide is a screen at the edge of the field that helps referees make the correct calls for fouls! [Screenshot 2024-05-04 7:59 PM](https://github.com/omarm4400/sep10-freedom-project/assets/146861785/0310c514-a853-4672-ac4f-1a461da31b3a)
+I am currently in the 5th step of the EDP (Engineering Design Process), which is creating a prototype. Down here is a screenshot of my Afram, which is a prototype of the device that I want to see in the future. This divide is a screen at the edge of the field that helps referees make the correct calls for fouls! 
+![Screenshot 2024-05-04 7 59 00 PM](https://github.com/omarm4400/sep10-freedom-project/assets/146861785/e4fd85cf-e71c-42a6-8953-b181904eb92e)
 
 
 # Skills:
